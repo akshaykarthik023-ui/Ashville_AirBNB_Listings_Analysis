@@ -12,4 +12,12 @@ Insights and recommendations are provided on the following key areas:
 - Demand analysis:Identification of High-Growth neighbourhoods and peak activity periods(Monthly/Annual) to determine market viability and optimal timing for service expansion.
 - Host Analysis: Analysing Hosts and their pricing patterns, Number of listings per host and their activity based on reviews by guest to better understand the influence of hosts on the market.
 
-You can find the SQL query [Here](link)
+First part of cleaning was done using Excel.
+
+The SQL queries utilised load,clean and maintain data integrity can be found [here](load_clean.sql)
+
+The SQL queries utilised for descriptive analysis can be found [here]()
+
+The SQL queries utilised to load raw data can be found [here]()
+
+The SQL queries to answer business questions can be found [here]()
