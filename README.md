@@ -16,8 +16,8 @@ First part of cleaning was done using Excel.
 
 The SQL queries utilised load,clean and maintain data integrity can be found [here](load_clean.sql)
 
-The SQL queries utilised for descriptive analysis can be found [here]()
+The SQL queries utilised for descriptive analysis can be found [here](descriptive_analysis.sql)
 
-The SQL queries utilised to load raw data can be found [here]()
+The SQL queries utilised to load raw data for enquiry can be found [here](load_rawdata.sql)
 
-The SQL queries to answer business questions can be found [here]()
+The SQL queries to answer business questions can be found [here](queries.sql)
