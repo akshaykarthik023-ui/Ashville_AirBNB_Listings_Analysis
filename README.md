@@ -8,8 +8,8 @@ The primary objective of this project undertaken by the travel research firm is 
 
 Insights and recommendations are provided on the following key areas:
 
-- Pricing insights
-- Demand analysis
-- Host Analysis
+- Pricing insights: Evaluation of prices of listings(rooms) per night from 2011 to half of 2025 in Ashville,NC, focusing on Prices of listings, Avereage price of different Ashville neighbourhoods and Average  minimum night prices. 
+- Demand analysis:Identification of High-Growth neighbourhoods and peak activity periods(Monthly/Annual) to determine market viability and optimal timing for service expansion.
+- Host Analysis: Analysing Hosts and their pricing patterns, Number of listings per host and their activity based on reviews by guest to better understand the influence of hosts on the market.
 
 You can find the SQL query [Here](link)
