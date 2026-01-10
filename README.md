@@ -21,3 +21,9 @@ The SQL queries utilised for descriptive analysis can be found [here](descriptiv
 The SQL queries utilised to load raw data for enquiry can be found [here](load_rawdata.sql)
 
 The SQL queries to answer business questions can be found [here](queries.sql)
+
+## Data Structure
+
+Ashville's AirBNB data as seen below consists of 3 tables, raw_listings, listings, reviews with a total rown count of 3,18,549.
+
+
