@@ -44,3 +44,4 @@ Examples are included throughout the report.The entire dashboard can be download
   - Most listings provide 1,2,3,30 minimum nights.And for the 99.014% of listings average prices decreases as number of minimum nights increases.
   - The price of rooms listed start from $18 to $6846.
 
+  ![Average price difference and guest activity](vizzs/Sheet 1.png)
