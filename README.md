@@ -54,5 +54,6 @@ Examples are included throughout the report.The entire dashboard can be download
   - The most popular neighbourhoods in Ashville are 28801 and 28806,both these saw 12.79% and 9.97% decline in guest activity during 2023.From 2023
      to 2024 neighbourhoods 28801 saw 23.64% and 28806 saw 28.45% decline in guest activity.
   - No neighbourhoods saw any kind of growth after the year 2022.
+  - The month of september is where highest activity occur.
 
   ![demand analysis dashboard](path)
