@@ -40,7 +40,8 @@ Examples are included throughout the report.The entire dashboard can be download
 ### Pricing Analysis:
 
   - The neighbourhoods with average prices lower than the whole city average accounts for 86.82% of guest activity.
-  - Hotel rooms are the most expensive and shared rooms are the least expensive.
+  - Hotel rooms are the most expensive and shared rooms are the least expensive.Entire home/apt accounts for 90.98% of guest activity even with
+    average price of 183.12,where hotel rooms accounts for only 0.103% of guest activity.
   - Most listings provide 1,2,3,30 minimum nights.And for the 99.014% of listings average prices decreases as number of minimum nights increases.
   - The price of rooms listed start from $18 to $6846.
 
