@@ -55,4 +55,4 @@ Examples are included throughout the report.The entire dashboard can be download
      to 2024 neighbourhoods 28801 saw 23.64% and 28806 saw 28.45% decline in guest activity.
   - No neighbourhoods saw any kind of growth after the year 2022.
 
-
+  ![demand analysis dashboard](path)
