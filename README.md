@@ -35,7 +35,7 @@ Ashville's AirBNB data as seen below consists of 3 tables, raw_listings, listing
 After peaking in 2023 Ashville's guest activity saw a -14.55% decline in 2024.Halfway through 2025 the decline continues.This decline can be attributed to pre-pandemic normalcy.The peak guest activity happens during the month of september.There is some correlation between average prices of each neighbourhoods and guest activity there.Superhosts continues to shine.Hotel room's are the costliest of all the rooms listed.
 The following sections will explore additional contributing factors and highlight key oppurtunity areas for improvement.
 
-Examples are included throughout the report.The entire dashboard can be downloaded [here]().
+Examples are included throughout the report.The entire dashboard can be downloaded [here](vizzs/full_dashboard.png).
 
 ### Pricing Analysis:
 
