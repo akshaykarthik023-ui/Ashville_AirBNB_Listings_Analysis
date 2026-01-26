@@ -57,3 +57,9 @@ Examples are included throughout the report.The entire dashboard can be download
   - The month of september is where highest activity occur.
 
   ![demand analysis dashboard](path)
+
+### Host Analysis
+
+ - The host which has most number of listings is Towns which has 108 listings all over Ashville and over 9000 reviews,Host Yonder has 50 listings and has over 1000 reviews.
+ - Hosts which has over 30 listings and over 1000 reviews(Although only few of these are there) charges 57% more than other hosts which are considered average performing.
+ - The top most expensive listings guest activity is very low.
