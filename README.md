@@ -47,7 +47,7 @@ Examples are included throughout the report.The entire dashboard can be download
 
   ![Price Analysis dashboard](vizzs/Dashboard_1.png)
 
-### Demand Analysis
+### Demand Analysis:
 
   - Guest Activity peaked in 2022.Then in 2023 all neighborhoods in Ashville saw a total -13.77% decline.2024 saw - 26.92% decline from previous year.
     The decline trend continues halfway through 2025.
@@ -58,7 +58,7 @@ Examples are included throughout the report.The entire dashboard can be download
 
   ![demand analysis dashboard](vizzs/airbnbash_demand.png)
 
-### Host Analysis
+### Host Analysis:
 
  - The host which has most number of listings is Towns which has 108 listings all over Ashville and over 9000 reviews,Host Yonder has 50 listings and has over 1000 reviews.
  - Hosts which has over 30 listings and over 1000 reviews(Although only few of these are there) charges 57% more than other hosts which are considered average performing.
