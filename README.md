@@ -81,5 +81,5 @@ Based on the uncovered insights, the following recoemmendations have been provid
     neighbourhoods.`
  - The guest activity in `neighbourhoods 28715 and 28732 is very low and data shows they are not good places for market expansion.`
  - Some hosts can be considered Superhosts as they provide many listings and have good guest activity.Some of them are: Towns with 108 listings and over 9000 reviews,Then Yonder
-   with 50 listings and over 1000 reviews.`These types of Superhosts are rare and it will be beneficial to enquire into how these lisitngs became a popular tourist attraction and
+   with 50 listings and over 1000 reviews.`These types of Superhosts are rare and it will be beneficial to enquire into how these listings became a popular tourist attraction and
    use that findings to build more superhosts.`
