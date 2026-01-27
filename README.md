@@ -51,8 +51,8 @@ Examples are included throughout the report.The entire dashboard can be download
 
   - Guest Activity peaked in 2022.Then in 2023 all neighborhoods in Ashville saw a total -13.77% decline.2024 saw - 26.92% decline from previous year.
     The decline trend continues halfway through 2025.
-  - The most popular neighbourhoods in Ashville are 28801 and 28806,both these saw 12.79% and 9.97% decline in guest activity during 2023.From 2023
-     to 2024 neighbourhoods 28801 saw 23.64% and 28806 saw 28.45% decline in guest activity.
+  - The most popular neighbourhoods in Ashville are 28801 and 28806,both these saw -12.79% and -9.97% decline in guest activity during 2023.From 2023
+     to 2024 neighbourhoods 28801 saw -23.64% and 28806 saw -28.45% decline in guest activity.
   - No neighbourhoods saw any kind of growth after the year 2022.
   - The month of september is where highest activity occur.
 
@@ -62,4 +62,24 @@ Examples are included throughout the report.The entire dashboard can be download
 
  - The host which has most number of listings is Towns which has 108 listings all over Ashville and over 9000 reviews,Host Yonder has 50 listings and has over 1000 reviews.
  - Hosts which has over 30 listings and over 1000 reviews(Although only few of these are there) charges 57% more than other hosts which are considered average performing.
- - The top most expensive listings guest activity is very low.
+ - The most expensive listing's guest activity is very low.
+
+## Recommendations:
+
+Based on the uncovered insights, the following recoemmendations have been provided:
+
+ - The neighbourhoods with average prices lower than the whole city average accounts for 86.82% of guest activity and 90.98% guests choose entire home/apt.So `lower prices attracts
+   more guests and rooms listed as entire home/apt are more popular in Ashville.`
+ - Expensive listing's guest activity is very low, so maybe `to increase guest activity lowering prices or more marketing to appropriate audience might be beneficial.`
+ - Guest Activity peaked in 2022.Then in 2023 all neighborhoods in Ashville saw a total -13.77% decline.2024 saw - 26.92% decline from previous year.
+    The decline trend continues halfway through 2025.This decline can be attributed to post-pandemic normalcy, but `if further data suggests even more decline then a deep
+    look into what might be the reason will be good idea before expanding AirBnb activity in Ashville.`
+ - The months september and july are the peak guest activity months, July is ideal for hiking and during september Ashville community hosts cultural fests and 
+   guests can enjoy activities like apple picking and touring farm.
+ - The neighbourhoods with highest guest activity are 28806 and 28801, they both account for 52.87% of guest activity in all of Ashville.Both of these neighbourhoods provide prices
+    lesser than Ashville city average.But the steady decline after 2022 is a little bit concerning and need further enquiry.`If any market expansion is planned it should be in these
+    neighbourhoods.`
+ - The guest activity in `neighbourhoods 28715 and 28732 is very low and data shows they are not good places for market expansion.`
+ - Some hosts can be considered Superhosts as they provide many listings and have good guest activity.Some of them are: Towns with 108 listings and over 9000 reviews,Then Yonder
+   with 50 listings and over 1000 reviews.`These types of Superhosts are rare and it will be beneficial to enquire into how these lisitngs became a popular tourist attraction and
+   use that findings to build more superhosts.`
