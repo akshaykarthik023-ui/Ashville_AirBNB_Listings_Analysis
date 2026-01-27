@@ -98,5 +98,5 @@ Based on the uncovered insights, the following recoemmendations have been provid
      may be higher than indicated.
      
 ### Assumptions
-   - Curency Consistency: All financial metrics(Price) are assumed to be in USD.
+   - Curency Consistency: All financial metrics(Price) where assumed to be in USD.
      
