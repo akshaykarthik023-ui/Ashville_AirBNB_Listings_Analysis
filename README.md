@@ -64,6 +64,8 @@ Examples are included throughout the report.The entire dashboard can be download
  - Hosts which has over 30 listings and over 1000 reviews(Although only few of these are there) charges 57% more than other hosts which are considered average performing.
  - The most expensive listing's guest activity is very low.
 
+![Host Analysis](vizzs/airbnbash_host.png)
+
 ## Recommendations:
 
 Based on the uncovered insights, the following recoemmendations have been provided:
