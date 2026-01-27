@@ -85,3 +85,18 @@ Based on the uncovered insights, the following recoemmendations have been provid
  - Some hosts can be considered Superhosts as they provide many listings and have good guest activity.Some of them are: Towns with 108 listings and over 9000 reviews,Then Yonder
    with 50 listings and over 1000 reviews.`These types of Superhosts are rare and it will be beneficial to enquire into how these listings became a popular tourist attraction and
    use that findings to build more superhosts.`
+
+## Caveats and Assumptions
+
+ ### Data Caveats
+   - Missing values: Deleted 2 columns which where blank and Deleted 340 rows where price = 0.
+   - Imputation: Blank cells of Integer data type Columns where imputed with 0 and Text Data type columns where imputed with NULL.
+   - Data integrity: To maintain Data integrity, Calculated the 99th percentile threshold which is 999 and winsorized the remaining 1% of data.This resulted in a adjusted mean
+     of 175. Used 99th percentile threshold calculation instead of 3-sigma limit because of the skewed dataset.Also used raw dataset to find the most expensive rooms.
+   - Data availability: Data till half of 2025 was available, so enquiry into peak months of guest activity in 2025 were no possible.
+   - Review Lag: Guest Activity(Reviews) are used as a proxy for bookings as booking data was not available, however not every guest leaves review.Actual occupancy rates
+     may be higher than indicated.
+     
+### Assumptions
+   - Curency Consistency: All financial metrics(Price) are assumed to be in USD.
+     
