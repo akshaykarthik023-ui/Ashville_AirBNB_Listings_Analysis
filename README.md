@@ -93,7 +93,7 @@ Based on the uncovered insights, the following recoemmendations have been provid
    - Imputation: Blank cells of Integer data type Columns where imputed with 0 and Text Data type columns where imputed with NULL.
    - Data integrity: To maintain Data integrity, Calculated the 99th percentile threshold which is 999 and winsorized the remaining 1% of data.This resulted in a adjusted mean
      of 175. Used 99th percentile threshold calculation instead of 3-sigma limit because of the skewed dataset.Also used raw dataset to find the most expensive rooms.
-   - Data availability: Data till half of 2025 was available, so enquiry into peak months of guest activity in 2025 were no possible.
+   - Data availability: Data till half of 2025 was available, so enquiry into peak months of guest activity in 2025 were not possible.
    - Review Lag: Guest Activity(Reviews) are used as a proxy for bookings as booking data was not available, however not every guest leaves review.Actual occupancy rates
      may be higher than indicated.
      
