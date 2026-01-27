@@ -26,7 +26,7 @@ The SQL queries to answer business questions can be found [here](queries.sql)
 
 Ashville's AirBNB data as seen below consists of 3 tables, raw_listings, listings and reviews with a total rown count of 3,18,549.
 
-![Datastructure](erd.png)
+![Datastructure](vizzs/erd.png)
 
 ## Executive Summary
 
