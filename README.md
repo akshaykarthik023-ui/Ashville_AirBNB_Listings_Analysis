@@ -35,7 +35,7 @@ Ashville's AirBNB data as seen below consists of 3 tables, raw_listings, listing
 After peaking in 2022 Ashville's guest activity saw a -13.77% decline in 2023.Halfway through 2025 the decline continues.This decline can be attributed to pre-pandemic normalcy.The peak guest activity happens during the month of september.There is some correlation between average prices of each neighbourhoods and guest activity there.Superhosts continues to shine.Hotel room's are the costliest of all the rooms listed.
 The following sections will explore additional contributing factors and highlight key oppurtunity areas for improvement.
 
-Examples are included throughout the report.The entire dashboard can be downloaded [here](vizzs/full_dashboard.png).
+Examples are included throughout the report.The entire dashboard can be downloaded [here](vizzs/airbnbash.png).
 
 ### Pricing Analysis:
 
@@ -45,7 +45,7 @@ Examples are included throughout the report.The entire dashboard can be download
   - Most listings provide 1,2,3,30 minimum nights.And for the 99.014% of listings average prices decreases as number of minimum nights increases.
   - The price of rooms listed start from $18 to $6846.
 
-  ![Price Analysis](vizzs/Dashboard_1.png)
+  ![Price Analysis dashboard](vizzs/Dashboard_1.png)
 
 ### Demand Analysis
 
@@ -64,7 +64,7 @@ Examples are included throughout the report.The entire dashboard can be download
  - Hosts which has over 30 listings and over 1000 reviews(Although only few of these are there) charges 57% more than other hosts which are considered average performing.
  - The most expensive listing's guest activity is very low.
 
-![Host Analysis](vizzs/airbnbash_host.png)
+![Host Analysis dashboard](vizzs/airbnbash_host.png)
 
 ## Recommendations:
 
