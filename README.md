@@ -56,7 +56,7 @@ Examples are included throughout the report.The entire dashboard can be download
   - No neighbourhoods saw any kind of growth after the year 2022.
   - The month of september is where highest activity occur.
 
-  ![demand analysis dashboard](path)
+  ![demand analysis dashboard](vizzs/airbnbash_demand.png)
 
 ### Host Analysis
 
